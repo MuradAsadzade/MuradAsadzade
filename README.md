@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuradAsadzade
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Python,Django.
+- 🌱 I’m currently learning NodeJs,ReactJs,ExpressJs.
 - 💞️ I’m looking to collaborate on differents projects,teams.
 - 📫 How to reach me .whatsapp number:051-430-52-20; instagram:muradesedzade_ ; facebook:Murad Əsədzadə
 I am very passionate about programming and talented.
